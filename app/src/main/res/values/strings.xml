@@ -5,4 +5,6 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="name_field">Informe o seu nome completo</string>
+    <string name="login_button_text">Acessar</string>
+    <string name="name_text_field">Usuário</string>
 </resources>
